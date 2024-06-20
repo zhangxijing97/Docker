@@ -63,6 +63,7 @@ Here are some essential Docker commands to get you started:
 - **List images**: `docker images`
 - **Run a container**: `docker run -d -p 80:80 myimage`
 - **List running containers**: `docker ps`
+- **List all containers**: `docker ps --all`
 - **Stop a container**: `docker stop container_id`
 - **Remove a container**: `docker rm container_id`
 - **Remove an image**: `docker rmi image_id`
